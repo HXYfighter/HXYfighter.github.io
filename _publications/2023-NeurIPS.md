@@ -1,5 +1,5 @@
 ---
-title: "De novo Drug Design using Reinforcement Learning with Dynamic Vocabulary"
+title: "De novo Drug Design using Reinforcement Learning with Multiple GPT Agents"
 collection: publications
 permalink: /publication/2023-NeurIPS
 excerpt: 'MolRL-MGPT'
