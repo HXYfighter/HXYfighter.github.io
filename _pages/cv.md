@@ -11,14 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in Dept. EE, Tsinghua University, 2022
-* Ph.D in Dept. EE, Tsinghua University, 2022 - 2027 (expected)
+* Ph.D. student in  in Information and Communication, Tsinghua University, Sept 2022 - Present
+* B.E. in Electronic Information Science and Technology, Tsinghua University, Sept 2018 - Aug 2022
 
 Internship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-  
+Awards
+======
