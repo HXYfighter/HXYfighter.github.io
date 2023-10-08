@@ -19,7 +19,7 @@ Education
   
   Advisor: Liang Zhao
   
-* B.E. in Electronic Information Science and Technology, Tsinghua University, Sept 2018 - Aug 2022
+* B.E. in Electronic Information Science and Technology & Minor B.S. in Statistics, Tsinghua University, Sept 2018 - Aug 2022
 
 Internship
 ======
@@ -33,4 +33,7 @@ Internship
 
 Awards
 ======
-* 
+* Scholarship for Excellent Social Works in Tsinghua University, 2021
+* Scholarship for Excellent Social Practice in Tsinghua University, 2020
+* Scholarship for Excellent Social Works in Tsinghua University, 2019
+* Bronze Medal, in Chinese Mathematical Olympiad (CMO), 2017
