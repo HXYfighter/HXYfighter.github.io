@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-NeurIPS
 excerpt: # 'MolRL-MGPT'
 date: 2023-12-10
-venue: '37th Conference on Neural Information Processing Systems (NeurIPS 2023)'
+venue: '37th Conference on Neural Information Processing Systems (NeurIPS)'
 paperurl: # ''
 citation: # ''
 ---
