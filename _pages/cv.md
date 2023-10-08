@@ -24,7 +24,7 @@ Research Internship
   * On AI for drug molecular design
 * SenseTime Research, July 2021 - Dec 2021
   * Advisor: Chunze Lin
-  * On face image image stylization
+  * On face image stylization
 
 Awards
 ======
