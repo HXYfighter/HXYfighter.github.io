@@ -5,14 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Selected Publications
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-Papers
+[1] De novo Drug Design using Reinforcement Learning with Multiple GPT Agents.
+**Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.
+Published in 37th Conference on Neural Information Processing Systems (NeurIPS), 2023
