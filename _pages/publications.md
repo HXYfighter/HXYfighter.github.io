@@ -16,7 +16,7 @@ In AAAI 2024 workshop - LLMs4Bio, 2024.
 [1] De novo Drug Design using Reinforcement Learning with Multiple GPT Agents  
 **Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.  
 In 37th Conference on Neural Information Processing Systems (NeurIPS), 2023.  
-[Paper](https://arxiv.org/abs/2401.06155) [Code](https://github.com/HXYfighter)
+[Paper](https://arxiv.org/abs/2401.06155)  [Code](https://github.com/HXYfighter)
 
 [2] De novo Drug Design against SARS-CoV-2 Protein Targets using SMILES-based Deep Reinforcement Learning  
 **Xiuyuan Hu**, Yanghepu Li, Guoqing Liu, Yang Zhao, Hao Zhang, Liang Zhao.  
@@ -38,4 +38,4 @@ In NeurIPS 2023 workshop - ATTRIB: Attributing Model Behavior at Scale, 2023.
 [1] Penalizing gradient norm for efficiently improving generalization in deep learning  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
 In 39th International Conference on Machine Learning (ICML), 2022.  
-[Paper](https://arxiv.org/abs/2202.03599) [Code](https://github.com/zhaoyang-0204/gnp)
+[Paper](https://arxiv.org/abs/2202.03599)  [Code](https://github.com/zhaoyang-0204/gnp)
