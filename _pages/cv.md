@@ -35,8 +35,8 @@ Awards
 
 Teaching Experience
 ======
-* Teaching Assistant (TA) of **Stochastic Process** in Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 * Teaching Assistant (TA) of **Probability Theory** in Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
+* Teaching Assistant (TA) of **Stochastic Process** in Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 * Writing Tutor of **Writing Tutoring Program** in Tsinghua University, _Sept 2022 - Present_
-  * Having tutored the revision of more than 50 academic or practical texts
+  * Having tutored the revision of more than 0 academic or practical texts
  
