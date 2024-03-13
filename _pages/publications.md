@@ -22,7 +22,7 @@ In 37th Conference on Neural Information Processing Systems (NeurIPS), 2023.
 [2] De novo Drug Design against SARS-CoV-2 Protein Targets using SMILES-based Deep Reinforcement Learning  
 **Xiuyuan Hu**, Yanghepu Li, Guoqing Liu, Yang Zhao, Hao Zhang, Liang Zhao.  
 In 11th International Conference on Information Technology: IoT and Smart City (ICIT), 2023.  
-_Paper to be published_
+[Paper](https://dl.acm.org/doi/10.1145/3638985.3639012)
 
 [3] Role Taxonomy of Units in Deep Neural Networks  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
