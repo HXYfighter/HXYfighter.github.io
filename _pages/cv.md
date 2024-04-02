@@ -17,9 +17,9 @@ Education
 
 # Research Visit
 
-- Visiting student in Cyber-Physical Intelligence Lab, Mcgill University, Canada    _Febr 2024_
+- Visiting student in Cyber-Physical Intelligence Lab, Mcgill University, Canada, _Febr 2024_
   - Advisor: Xue (Steve) Liu
-- Visiting student in Future Wisdom Institute, Kyoto University, Japan    _July 2023_
+- Visiting student in Future Wisdom Institute, Kyoto University, Japan, _July 2023_
   - Advisor: Liang Zhao
 
 Research Internship
