@@ -13,12 +13,18 @@ Education
 ======
 * Ph.D. student in Dept. EE, Tsinghua University, _Sept 2022 - Present_
   * Advisor: Hao Zhang
-* Visiting student in Future Wisdom Institute, Kyoto University, _June 2023 - July 2023_
-  * Advisor: Liang Zhao
 * B.E. in Electronic Information Science and Technology & Minor B.S. in Statistics, Tsinghua University, _Sept 2018 - Aug 2022_
+
+# Research Visit
+
+- Visiting student in Cyber-Physical Intelligence Lab, Mcgill University, Canada    _Febr 2024_
+  - Advisor: Xue (Steve) Liu
+- Visiting student in Future Wisdom Institute, Kyoto University, Japan    _July 2023_
+  - Advisor: Liang Zhao
 
 Research Internship
 ======
+
 * Microsoft Research AI4Science, _July 2022 - July 2023_
   * Advisor: Guoqing Liu, Tao Qin
   * On AI for drug molecular design
@@ -38,5 +44,5 @@ Teaching Experience
 * Teaching Assistant (TA) of **Probability Theory** in Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
 * Teaching Assistant (TA) of **Stochastic Process** in Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 * Writing Tutor of **Writing Tutoring Program** in Tsinghua University, _Sept 2022 - Present_
-  * Having tutored the revision of more than 0 academic or practical texts
- 
+  * Having tutored the revision of more than 100 academic essays and application materials
+
