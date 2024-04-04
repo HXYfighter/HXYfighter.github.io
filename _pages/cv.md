@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student in Dept. EE, Tsinghua University, _Sept 2022 - Present_
+* Ph.D. student in Dept. EE, Tsinghua University, <h1 style="text-align:right">_Sept 2022 - Present_ </h1>
   * Advisor: Hao Zhang
 * B.E. in Electronic Information Science and Technology & Minor B.S. in Statistics, Tsinghua University, _Sept 2018 - Aug 2022_
 
