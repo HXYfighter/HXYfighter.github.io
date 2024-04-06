@@ -12,35 +12,28 @@ redirect_from:
 Education
 ======
 
-* Ph.D. student in Dept. EE, Tsinghua University, _Sept. 2022 - Present_
-  * Advisor: Hao Zhang
-* B.E. in Electronic Information Science and Technology, Tsinghua University, _Sept. 2018 - Aug. 2022_
+* **Ph.D.** student in Dept. EE, **Tsinghua University**, _Sept. 2022 - Present_
+  * Supervisor: Hao Zhang
+* **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, _Sept. 2018 - Aug. 2022_
   * Minor B.S. in Statistics
 
 
 # Research Visit
 
-- Visiting student in Cyber-Physical Intelligence Lab, Mcgill University, Canada, _Mar. 2024_
-  - Advisor: Xue (Steve) Liu
-- Visiting student in Future Wisdom Institute, Kyoto University, Japan, _July 2023_
-  - Advisor: Liang Zhao
+- Visiting student in Cyber-Physical Intelligence Lab, **Mcgill University**, Canada, _Mar. 2024_
+  - Supervisor: Xue (Steve) Liu
+- Visiting student in Future Wisdom Institute, **Kyoto University**, Japan, _July 2023_
+  - Supervisor: Liang Zhao
 
 Research Internship
 ======
 
 * Microsoft Research AI4Science, _July 2022 - July 2023_
-  * Advisor: Guoqing Liu, Tao Qin
+  * Mentor: Guoqing Liu, Tao Qin
   * On AI for drug molecular design
 * SenseTime Research, _July 2021 - Dec. 2021_
-  * Advisor: Chunze Lin
+  * Mentor: Chunze Lin
   * On face image stylization
-
-Awards
-======
-* Scholarship for Excellent Social Works in Tsinghua University, _2021_
-* Scholarship for Excellent Social Practice in Tsinghua University, _2020_
-* Scholarship for Excellent Social Works in Tsinghua University, _2019_
-* Bronze Medal, in Chinese Mathematical Olympiad (CMO), _2017_
 
 Teaching Experience
 ======
@@ -49,3 +42,10 @@ Teaching Experience
 * Writing Tutor of **Writing Tutoring Program** in Tsinghua University, _Sept. 2022 - Present_
   * Having tutored the revision of more than 100 academic essays and application materials
 
+Awards
+======
+
+* Scholarship for Excellent Social Works in Tsinghua University, _2021_
+* Scholarship for Excellent Social Practice in Tsinghua University, _2020_
+* Scholarship for Excellent Social Works in Tsinghua University, _2019_
+* Bronze Medal, in Chinese Mathematical Olympiad (CMO), _2017_
