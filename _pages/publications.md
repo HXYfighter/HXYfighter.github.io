@@ -10,7 +10,7 @@ author_profile: true
 [1] Empirical Evidence for the Fragment level understanding on Drug Molecular Structure of LLMs  
 **Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.  
 In AAAI 2024 workshop - LLMs4Bio: Large Language Models for Biological Discoveries, 2024.  
-[Paper](https://arxiv.org/abs/2401.07657)
+[Paper](https://arxiv.org/abs/2401.07657)  [Code](https://github.com/HXYfighter/LLMsUnderstandMol)
 
 ## 2023
 
