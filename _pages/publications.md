@@ -7,7 +7,11 @@ author_profile: true
 
 ## 2024
 
-[1] Empirical Evidence for the Fragment level understanding on Drug Molecular Structure of LLMs  
+[1] When Will Gradient Regularization Be Harmful?  
+Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
+In 39th International Conference on Machine Learning (ICML), 2022.  
+
+[2] Empirical Evidence for the Fragment level understanding on Drug Molecular Structure of LLMs  
 **Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.  
 In AAAI 2024 workshop - LLMs4Bio: Large Language Models for Biological Discoveries, 2024.  
 [Paper](https://arxiv.org/abs/2401.07657)  [Code](https://github.com/HXYfighter/LLMsUnderstandMol)
@@ -36,7 +40,7 @@ In NeurIPS 2023 workshop - ATTRIB: Attributing Model Behavior at Scale, 2023.
 
 ## 2022
 
-[1] Penalizing gradient norm for efficiently improving generalization in deep learning  
+[1] Penalizing Gradient Norm for Efficiently Improving Generalization in Deep Learning  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
 In 39th International Conference on Machine Learning (ICML), 2022.  
 [Paper](https://arxiv.org/abs/2202.03599)  [Code](https://github.com/zhaoyang-0204/gnp)
