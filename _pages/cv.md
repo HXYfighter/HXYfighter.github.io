@@ -35,8 +35,13 @@ Research Internship
   * Mentor: Chunze Lin
   * On face image stylization
 
+# Academic Services
+
+- Reviewer: NeurIPS (2024)
+
 Teaching Experience
 ======
+
 * Teaching Assistant (TA) of **Probability Theory** in Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
 * Teaching Assistant (TA) of **Stochastic Process** in Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 * Writing Tutor of **Writing Tutoring Program** in Tsinghua University, _Sept. 2022 - Present_
