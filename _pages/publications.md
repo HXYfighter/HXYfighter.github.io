@@ -9,7 +9,9 @@ author_profile: true
 
 [1] When Will Gradient Regularization Be Harmful?  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
-In 41th International Conference on Machine Learning (ICML), 2024.  
+In 41th International Conference on Machine Learning (ICML), 2024.
+
+[Paper](https://arxiv.org/abs/2406.09723)  [Code](https://github.com/zhaoyang-0204/gnp)
 
 [2] Empirical Evidence for the Fragment level understanding on Drug Molecular Structure of LLMs  
 **Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.  
