@@ -11,9 +11,13 @@ redirect_from:
 
 I am a 2nd-year Ph.D. student in the Department of Electronic Engineering at Tsinghua University, China, under the advisory of Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, Tsinghua University in 2022.
 
-**AI for Science** is the research field that I am passionate about. Currently, my research is focused on the application of **machine learning in drug discovery**. I use techniques such as reinforcement learning (RL) and large language models (LLMs) to design algorithms, with the aim of making a greater contribution to humans' health through AI. In addition, I am also interested in cutting-edge areas such as neuroscience and computer vision.
+Currently, my research is focused on the application of **machine learning in drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. In addition, I am also interested in cutting-edge AI topics such as large language models, neuroscience and computer vision.
+
+I am open to academic exchanges and cooperation.
+
+[Publications](https://hxyfighter.github.io/publications/)	[CV](https://hxyfighter.github.io/cv/)
 
 > Email: huxy22@mails.tsinghua.edu.cn
 
 ## News
-* 2023.09: 1 paper on AI for drug design is accepted by **NeurIPS 2023**.
+* 09/2023: Our paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for drug design is accepted by **NeurIPS 2023**.
