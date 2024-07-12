@@ -15,9 +15,10 @@ Currently, my research is focused on the application of **machine learning in dr
 
 I am open to academic exchanges and cooperation.
 
-[Publications](https://hxyfighter.github.io/publications/)	[CV](https://hxyfighter.github.io/cv/)
+[Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [CV](https://hxyfighter.github.io/cv/)
 
 > Email: huxy22@mails.tsinghua.edu.cn
 
 ## News
-* 09/2023: Our paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for drug design is accepted by **NeurIPS 2023**.
+* 07/2024: Our paper Hamiltonian Diversity for measuring molecular diversity is accepted by **Journal of Cheminformatics**.
+* 09/2023: Our paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for de novo drug design is accepted by **NeurIPS 2023**.

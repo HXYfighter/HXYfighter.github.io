@@ -7,6 +7,11 @@ author_profile: true
 
 ## 2024
 
+[1] Hamiltonian Diversity: Effectively Measuring Molecular Diversity by Shortest Hamiltonian Circuits  
+**Xiuyuan Hu**, Guoqing Liu, Quanming Yao, Yang Zhao, Hao Zhang.  
+In Journal of Cheminformatics.  
+[Accepted, to be published]
+
 [1] When Will Gradient Regularization Be Harmful?  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
 In 41th International Conference on Machine Learning (ICML), 2024.  
