@@ -12,12 +12,12 @@ author_profile: true
 In Journal of Cheminformatics.  
 [Accepted, to be published]
 
-[1] When Will Gradient Regularization Be Harmful?  
+[2] When Will Gradient Regularization Be Harmful?  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
 In 41th International Conference on Machine Learning (ICML), 2024.  
 [Paper](https://arxiv.org/abs/2406.09723)  [Code](https://github.com/zhaoyang-0204/gnp)
 
-[2] Empirical Evidence for the Fragment level understanding on Drug Molecular Structure of LLMs  
+[3] Empirical Evidence for the Fragment level understanding on Drug Molecular Structure of LLMs  
 **Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.  
 In AAAI 2024 workshop - LLMs4Bio: Large Language Models for Biological Discoveries, 2024.  
 [Paper](https://arxiv.org/abs/2401.07657)  [Code](https://github.com/HXYfighter/LLMsUnderstandMol)
