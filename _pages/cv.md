@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* **Ph.D.** student in Dept. EE, **Tsinghua University**, _Sept. 2022 - Present_
+* **Ph.D.** student in Dept. EE, **Tsinghua University**, China, _Sept. 2022 - Present_
   * Supervisor: [Hao Zhang](https://www.ee.tsinghua.edu.cn/en/info/1071/1305.htm)
 
 - Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Mar. 2024_
@@ -20,7 +20,7 @@ Education
 - Visiting student in Future Wisdom Institute, **Kyoto University**, Japan, _July 2023_
   - Supervisor: [Liang Zhao](https://aw.gsais.kyoto-u.ac.jp/en)
 
-* **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, _Sept. 2018 - Aug. 2022_
+* **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, China, _Sept. 2018 - Aug. 2022_
   * Minor B.S. in Statistics
 
 Research Internship
