@@ -13,26 +13,24 @@ Education
 ======
 
 * **Ph.D.** student in Dept. EE, **Tsinghua University**, _Sept. 2022 - Present_
-  * Supervisor: Hao Zhang
+  * Supervisor: [Hao Zhang](https://www.ee.tsinghua.edu.cn/en/info/1071/1305.htm)
+
+- Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Mar. 2024_
+  - Supervisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
+- Visiting student in Future Wisdom Institute, **Kyoto University**, Japan, _July 2023_
+  - Supervisor: [Liang Zhao](https://aw.gsais.kyoto-u.ac.jp/en)
+
 * **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, _Sept. 2018 - Aug. 2022_
   * Minor B.S. in Statistics
-
-
-# Research Visit
-
-- Visiting student in Cyber-Physical Intelligence Lab, **Mcgill University**, Canada, _Mar. 2024_
-  - Supervisor: Xue (Steve) Liu
-- Visiting student in Future Wisdom Institute, **Kyoto University**, Japan, _July 2023_
-  - Supervisor: Liang Zhao
 
 Research Internship
 ======
 
-* Microsoft Research AI4Science, _July 2022 - July 2023_
-  * Mentor: Guoqing Liu, Tao Qin
+* Microsoft Research AI for Science, _July 2022 - July 2023_
+  * Mentor: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)
   * On AI for drug molecular design
 * SenseTime Research, _July 2021 - Dec. 2021_
-  * Mentor: Chunze Lin
+  * Mentor: [Chunze Lin](https://linchunze.github.io/)
   * On face image stylization
 
 # Academic Services
@@ -42,10 +40,11 @@ Research Internship
 Teaching Experience
 ======
 
-* Teaching Assistant (TA) of **Probability Theory** in Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
-* Teaching Assistant (TA) of **Stochastic Process** in Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 * Writing Tutor of **Writing Tutoring Program** in Tsinghua University, _Sept. 2022 - Present_
   * Accumulated more than 120 article revisions, including academic essays and application materials
+* Teaching Assistant (TA) of **New Horizons in Chinese Philosophy** in Tsinghua University, co-working with Prof. Yuncheng Zhou, _Fall 2024_
+* Teaching Assistant (TA) of **Probability Theory** in Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
+* Teaching Assistant (TA) of **Stochastic Process** in Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 
 Awards
 ======

@@ -9,11 +9,11 @@ redirect_from:
 
 ---
 
-I am a 2nd-year Ph.D. student in the Department of Electronic Engineering at Tsinghua University, China, under the advisory of Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, Tsinghua University in 2022.
+I am a 2nd-year Ph.D. student in the Department of Electronic Engineering at Tsinghua University, China, under the advisory of Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022.
 
-Currently, my research is focused on the application of **machine learning in drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. In addition, I am also interested in cutting-edge AI topics such as large language models, neuroscience and computer vision.
+My research is mainly focused on **machine learning for drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. I am also interested in cutting-edge AI topics such as large language models, computer vision, and neuroscience.
 
-I am open to academic exchanges and cooperation.
+I am open to academic exchange and collaboration.
 
 [Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [CV](https://hxyfighter.github.io/cv/)
 
