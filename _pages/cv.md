@@ -13,12 +13,12 @@ Education
 ======
 
 * **Ph.D.** student in Dept. EE, **Tsinghua University**, China, _Sept. 2022 - Present_
-  * Supervisor: [Hao Zhang](https://www.ee.tsinghua.edu.cn/en/info/1071/1305.htm)
+  * Advisor: Hao Zhang
 
 - Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Mar. 2024_
-  - Supervisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
+  - Advisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
 - Visiting student in Future Wisdom Institute, **Kyoto University**, Japan, _July 2023_
-  - Supervisor: [Liang Zhao](https://aw.gsais.kyoto-u.ac.jp/en)
+  - Advisor: [Liang Zhao](https://aw.gsais.kyoto-u.ac.jp/en)
 
 * **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, China, _Sept. 2018 - Aug. 2022_
   * Minor B.S. in Statistics
@@ -46,8 +46,7 @@ Teaching Experience
 * Teaching Assistant (TA) of **Probability Theory** at Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
 * Teaching Assistant (TA) of **Stochastic Process** at Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 
-Awards
-======
+# Honors and Awards
 
 * Five-star (highest level) Volunteer in Beijing, _2024_
   * Accumulated more than 350 hours of volunteer work (2018 - 2024)
