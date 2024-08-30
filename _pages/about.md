@@ -15,7 +15,7 @@ My research is mainly focused on **machine learning for drug discovery**, with t
 
 I am open to academic exchange and collaboration.
 
-[Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [CV](https://hxyfighter.github.io/cv/)
+[My Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [My CV](https://hxyfighter.github.io/cv/)
 
 > Email: huxy22@mails.tsinghua.edu.cn
 
