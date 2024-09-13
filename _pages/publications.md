@@ -9,7 +9,7 @@ author_profile: true
 
 [1] Hamiltonian Diversity: Effectively Measuring Molecular Diversity by Shortest Hamiltonian Circuits  
 **Xiuyuan Hu**, Guoqing Liu, Quanming Yao, Yang Zhao, Hao Zhang.  
-In Journal of Cheminformatics.  
+In Journal of Cheminformatics, volume 16 (2024).  
 [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00883-4)  [Code](https://github.com/HXYfighter/HamDiv)
 
 [2] When Will Gradient Regularization Be Harmful?  
