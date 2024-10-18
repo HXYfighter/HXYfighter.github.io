@@ -15,6 +15,8 @@ Education
 * **Ph.D.** student in Dept. EE, **Tsinghua University**, China, _Sept. 2022 - Present_
   * Advisor: Hao Zhang
 
+- Incoming visiting student in Machine Learning Group, **University of Cambridge**, UK, _Jan. 2024 - July 2024_
+  - Advisor: [José Miguel Hernández-Lobato](https://jmhl.org/)
 - Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Mar. 2024_
   - Advisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
 - Visiting student in Future Wisdom Institute, **Kyoto University**, Japan, _July 2023_
