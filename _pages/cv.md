@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* **Ph.D.** student in Dept. EE, **Tsinghua University**, China, _Sept. 2022 - Present_
+* **Ph.D.** student in Department of Electronic Engineering, **Tsinghua University**, China, _Sept. 2022 - Present_
   * Advisor: Hao Zhang
 
 - Incoming visiting student in Machine Learning Group, **University of Cambridge**, UK, _Jan. 2025 - July 2025_
