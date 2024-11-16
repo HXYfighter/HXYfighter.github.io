@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am a 3rd-year Ph.D. student in the Department of Electronic Engineering at Tsinghua University, China, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022.
+I am a 3rd-year Ph.D. candidate in the Department of Electronic Engineering at Tsinghua University, China, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022.
 
 My research is mainly focused on **machine learning for drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. I am also interested in cutting-edge AI topics such as large language models, computer vision, and neuroscience.
 
@@ -20,5 +20,6 @@ I am open to academic exchange and collaboration.
 > Email: huxy22@mails.tsinghua.edu.cn
 
 ## News
+* 11/2024: I pass my PhD qualifying exam.
 * 07/2024: Our paper [Hamiltonian Diversity](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00883-4) for measuring molecular diversity is accepted by **Journal of Cheminformatics**.
 * 09/2023: Our paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for de novo drug design is accepted by **NeurIPS 2023**.
