@@ -15,7 +15,7 @@ Education
 * **Ph.D.** student in Department of Electronic Engineering, **Tsinghua University**, China, _Sept. 2022 - Present_
   * Advisor: Hao Zhang
 
-- Incoming visiting student in Machine Learning Group, **University of Cambridge**, UK, _Jan. 2025 - July 2025_
+- Incoming visiting student in Machine Learning Group, **University of Cambridge**, UK, _Jan. 2025 - June 2025_
   - Advisor: [José Miguel Hernández-Lobato](https://jmhl.org/)
 - Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Feb. 2024 - Mar. 2024_
   - Advisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
@@ -50,6 +50,7 @@ Teaching Experience
 
 # Honors and Awards
 
+* Scholarship for Excellent Comprehensive Performance at Tsinghua University, *2024*
 * Five-star (highest level) Volunteer in Beijing, _2024_
   * Accumulated more than 350 hours of volunteer work (2018 - 2024)
 * Excellent Oral Presentation in the 6th Academic Forum on Artificial Intelligence of Beijing Universities, _2024_
