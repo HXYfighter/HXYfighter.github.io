@@ -37,7 +37,7 @@ Research Internship
 
 # Academic Services
 
-- Reviewer: NeurIPS (2024), ICLR (2024), AISTATS (2024)
+- Reviewer: NeurIPS (2024), ICLR (2025), ICML(2025), AISTATS (2025)
 
 Teaching Experience
 ======
