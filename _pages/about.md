@@ -9,11 +9,13 @@ redirect_from:
 
 ---
 
-I am a 3rd-year Ph.D. candidate in the Department of Electronic Engineering at Tsinghua University, China, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022.
+I am a **3rd-year Ph.D. candidate** in the Department of Electronic Engineering **at Tsinghua University, Beijing**, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022.
+
+*During January to July 2025, I am visiting at University of Cambridge, UK.
 
 My research is mainly focused on **machine learning for drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. I am also interested in cutting-edge AI topics such as large language models, computer vision, and neuroscience.
 
-I am open to academic exchange and collaboration.
+I am open to job and internship opportunities and look forward to academic exchange and collaboration.
 
 [My Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [My CV](https://hxyfighter.github.io/cv/)
 
