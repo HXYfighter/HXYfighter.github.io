@@ -13,9 +13,11 @@ I am a **3rd-year Ph.D. candidate** in the Department of Electronic Engineering 
 
 *During January to July 2025, I am visiting at University of Cambridge, UK.
 
-My research is mainly focused on **machine learning for drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. I am also interested in cutting-edge AI topics such as large language models, computer vision, and neuroscience.
+My research is mainly focused on **machine learning for drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. I am also interested in cutting-edge AI topics including AI for healthcare, large language models, computer vision, and neuroscience. 
 
-I am open to job and internship opportunities and look forward to academic exchange and collaboration.
+I have published papers at top-tier machine learning conferences including NeurIPS, ICML, ICLR, and served as a reviewer at these conferences.
+
+Now, I am open to job and internship opportunities and look forward to academic exchange and collaboration.
 
 [My Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [My CV](https://hxyfighter.github.io/cv/)
 
