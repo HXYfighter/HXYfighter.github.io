@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+
+[1] 3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery  
+**Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue Liu.  
+In 13th International Conference on Learning Representations (ICLR), 2025.  
+Paper and Code to be published.
+
 ## 2024
 
 [1] Hamiltonian Diversity: Effectively Measuring Molecular Diversity by Shortest Hamiltonian Circuits  

@@ -22,6 +22,7 @@ I am open to job and internship opportunities and look forward to academic excha
 > Email: huxy22@mails.tsinghua.edu.cn
 
 ## News
+* 01/2025: Our paper 3DMolFormer for Structure-based Drug Discovery is accepted by **ICLR 2025**.
 * 11/2024: I pass my PhD qualifying exam.
 * 07/2024: Our paper [Hamiltonian Diversity](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00883-4) for measuring molecular diversity is accepted by **Journal of Cheminformatics**.
 * 09/2023: Our paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for de novo drug design is accepted by **NeurIPS 2023**.
