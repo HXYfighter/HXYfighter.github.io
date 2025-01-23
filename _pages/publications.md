@@ -8,7 +8,7 @@ author_profile: true
 ## 2025
 
 [1] 3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery  
-**Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue Liu.  
+**Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  
 In 13th International Conference on Learning Representations (ICLR), 2025.  
 Paper and Code to be published.
 
@@ -33,7 +33,7 @@ In AAAI 2024 workshop - LLMs4Bio: Large Language Models for Biological Discoveri
 
 [1] De novo Drug Design using Reinforcement Learning with Multiple GPT Agents  
 **Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.  
-In 37th Conference on Neural Information Processing Systems (NeurIPS), 2023.  
+In 37th Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.  
 [Paper](https://arxiv.org/abs/2401.06155)  [Code](https://github.com/HXYfighter/MolRL-MGPT)
 
 [2] De novo Drug Design against SARS-CoV-2 Protein Targets using SMILES-based Deep Reinforcement Learning  
