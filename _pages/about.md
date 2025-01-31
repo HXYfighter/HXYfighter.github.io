@@ -21,7 +21,7 @@ Now, I am open to job and internship opportunities and look forward to academic 
 
 [My Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [My CV](https://hxyfighter.github.io/cv/)
 
-> Email: huxy22 [at] mails.tsinghua.edu.cn
+> Email: [huxy22 [at] mails.tsinghua.edu.cn](huxy22@mails.tsinghua.edu.cn)
 
 ## News
 * 01/2025: Our paper 3DMolFormer for Structure-based Drug Discovery is accepted by **ICLR 2025**.
