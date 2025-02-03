@@ -28,10 +28,10 @@ Education
 Research Internship
 ======
 
-* Microsoft Research AI for Science, _July 2022 - July 2023_
+* **Microsoft Research** AI for Science, _July 2022 - July 2023_
   * Mentor: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)
   * On AI for drug molecular design
-* SenseTime Research, _July 2021 - Dec. 2021_
+* **SenseTime** Research, _July 2021 - Dec. 2021_
   * Mentor: [Chunze Lin](https://linchunze.github.io/)
   * On face image stylization
 
