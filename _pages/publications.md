@@ -10,7 +10,7 @@ author_profile: true
 [1] 3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery  
 **Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  
 In 13th International Conference on Learning Representations (ICLR), 2025.  
-Paper and Code to be published.
+[Paper](https://arxiv.org/abs/2502.05107)  [Code to be published]
 
 ## 2024
 
