@@ -12,18 +12,18 @@ redirect_from:
 Education
 ======
 
-* **Ph.D.** student in Department of Electronic Engineering, **Tsinghua University**, China, _Sept. 2022 - Present_
-  * Advisor: Hao Zhang
-
+- **Ph.D.** student in Department of Electronic Engineering, **Tsinghua University**, China, _Sept. 2022 - Present_
+  - Advisor: Hao Zhang
 - Visiting student in Computational and Biological Learning Lab, **University of Cambridge**, UK, _Jan. 2025 - July 2025_
   - Advisor: [José Miguel Hernández-Lobato](https://jmhl.org/)
 - Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Feb. 2024 - Mar. 2024_
   - Advisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
 - Visiting student in Future Wisdom Institute, **Kyoto University**, Japan, _June 2023 - July 2023_
   - Advisor: [Liang Zhao](https://aw.gsais.kyoto-u.ac.jp/en)
-
-* **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, China, _Sept. 2018 - Aug. 2022_
-  * Minor B.S. in Statistics
+- **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, China, _Sept. 2018 - Aug. 2022_
+  - Minor B.S. in Statistics
+- Junior and senior high school student, **Tianjin Yaohua High School**, China, Sept. 2013 - Aug. 2018
+  - Experimental Classes for Young Talents, specialised in Olympic mathematics
 
 Research Internship
 ======
