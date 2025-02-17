@@ -22,7 +22,7 @@ Education
   - Advisor: [Liang Zhao](https://aw.gsais.kyoto-u.ac.jp/en)
 - **B.E.** in Electronic Information Science and Technology, **Tsinghua University**, China, _Sept. 2018 - Aug. 2022_
   - Minor B.S. in Statistics
-- Junior and senior high school student, **Tianjin Yaohua High School**, China, Sept. 2013 - Aug. 2018
+- Junior and senior high school student, **Tianjin Yaohua High School**, China, *Sept. 2013 - Aug. 2018*
   - Experimental Classes for Young Talents, specialised in Olympic mathematics
 
 Research Internship
