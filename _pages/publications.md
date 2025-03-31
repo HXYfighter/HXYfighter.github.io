@@ -10,7 +10,22 @@ author_profile: true
 [1] 3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery  
 **Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  
 In 13th International Conference on Learning Representations (ICLR), 2025.  
-[Paper](https://arxiv.org/abs/2502.05107)  [Code to be published]
+[Paper](https://arxiv.org/abs/2502.05107)  [Code](https://github.com/HXYfighter/3DMolFormer)
+
+[2] Activity Cliff-Aware Reinforcement Learning for *de novo* Drug Design  
+**Xiuyuan Hu**, Guoqing Liu, Quanming Yao, Yang Zhao, Hao Zhang.  
+In Journal of Cheminformatics, volume 17 (2025).  
+[Paper to be published]
+
+[3] TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design  
+**Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  
+Preprint (2025).  
+[Paper](https://arxiv.org/abs/2503.20913)
+
+[4] Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning  
+Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Siwei Fu, Fankun Zeng, Hao Zhang, Xiaonan Wang.  
+In ICLR 2025 workshop - AI4Mat: AI for Accelerated Materials Design.  
+[Paper to be published]
 
 ## 2024
 
@@ -43,12 +58,12 @@ In 11th International Conference on Information Technology: IoT and Smart City (
 
 [3] Role Taxonomy of Units in Deep Neural Networks  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
-In NeurIPS 2023 workshop - UniReps: Unifying Representations in Neural Models, 2023.  
+In NeurIPS 2023 workshop - UniReps: Unifying Representations in Neural Models.  
 [Paper](https://arxiv.org/abs/2011.00789)
 
 [4] Estimating the Generalization in Deep Neural Networks via Sparsity  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
-In NeurIPS 2023 workshop - ATTRIB: Attributing Model Behavior at Scale, 2023.  
+In NeurIPS 2023 workshop - ATTRIB: Attributing Model Behavior at Scale.  
 [Paper](https://arxiv.org/abs/2104.00851)
 
 ## 2022

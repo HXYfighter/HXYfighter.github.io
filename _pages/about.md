@@ -24,7 +24,12 @@ Now, I am open to job and internship opportunities and look forward to academic 
 > Email: huxy22 [at] mails.tsinghua.edu.cn
 
 ## News
-* 01/2025: Our paper [3DMolFormer](https://arxiv.org/abs/2502.05107) for Structure-based Drug Discovery is accepted by **ICLR 2025**.
+* 04/2025: My first-authored paper ACARL for utilizing activity cliffs in drug design is accepted by **Journal of Cheminformatics**.
+* 01/2025: My first-authored paper [3DMolFormer](https://arxiv.org/abs/2502.05107) for structure-based drug discovery is accepted by **ICLR 2025**.
 * 11/2024: I pass my PhD qualifying exam.
-* 07/2024: Our paper [Hamiltonian Diversity](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00883-4) for measuring molecular diversity is accepted by **Journal of Cheminformatics**.
-* 09/2023: Our paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for de novo drug design is accepted by **NeurIPS 2023**.
+* 07/2024: My first-authored paper [Hamiltonian Diversity](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00883-4) for measuring molecular diversity is accepted by **Journal of Cheminformatics**.
+* 05/2024: My co-authored [paper](https://arxiv.org/abs/2406.09723) on gradient regularization in deep learning is accepted by **ICML 2024**.
+* 09/2023: My first-authored paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for *de novo* drug design is accepted by **NeurIPS 2023**.
+* 09/2022: I start to pursue my Ph.D. degree at Tsinghua University, after obtaining my B.E and minor B.S here.
+* 05/2022: My co-authored [paper](https://arxiv.org/abs/2202.03599) on gradient norm penalization in deep learning is accepted by **ICML 2022**.
+
