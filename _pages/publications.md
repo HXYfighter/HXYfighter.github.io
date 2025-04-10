@@ -19,13 +19,13 @@ In Journal of Cheminformatics, volume 17 (2025).
 
 [3] TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design  
 **Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  
-Preprint (2025).  
+arXiv Preprint (2025).  
 [Paper](https://arxiv.org/abs/2503.20913)
 
 [4] Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning  
 Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Siwei Fu, Fankun Zeng, Hao Zhang, Xiaonan Wang.  
 In ICLR 2025 workshop - AI4Mat: AI for Accelerated Materials Design.  
-[Paper to be published]
+[Paper](https://arxiv.org/abs/2503.23766)
 
 ## 2024
 
@@ -46,12 +46,12 @@ In AAAI 2024 workshop - LLMs4Bio: Large Language Models for Biological Discoveri
 
 ## 2023
 
-[1] De novo Drug Design using Reinforcement Learning with Multiple GPT Agents  
+[1] *De novo* Drug Design using Reinforcement Learning with Multiple GPT Agents  
 **Xiuyuan Hu**, Guoqing Liu, Yang Zhao, Hao Zhang.  
 In 37th Annual Conference on Neural Information Processing Systems (NeurIPS), 2023.  
 [Paper](https://arxiv.org/abs/2401.06155)  [Code](https://github.com/HXYfighter/MolRL-MGPT)
 
-[2] De novo Drug Design against SARS-CoV-2 Protein Targets using SMILES-based Deep Reinforcement Learning  
+[2] *De novo* Drug Design against SARS-CoV-2 Protein Targets using SMILES-based Deep Reinforcement Learning  
 **Xiuyuan Hu**, Yanghepu Li, Guoqing Liu, Yang Zhao, Hao Zhang, Liang Zhao.  
 In 11th International Conference on Information Technology: IoT and Smart City (ICIT), 2023.  
 [Paper](https://dl.acm.org/doi/10.1145/3638985.3639012)

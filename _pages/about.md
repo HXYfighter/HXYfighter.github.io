@@ -30,6 +30,6 @@ Now, I am open to job and internship opportunities and look forward to academic 
 * 07/2024: My first-authored paper [Hamiltonian Diversity](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00883-4) for measuring molecular diversity is accepted by **Journal of Cheminformatics**.
 * 05/2024: My co-authored [paper](https://arxiv.org/abs/2406.09723) on gradient regularization in deep learning is accepted by **ICML 2024**.
 * 09/2023: My first-authored paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for *de novo* drug design is accepted by **NeurIPS 2023**.
-* 09/2022: I start to pursue my Ph.D. degree at Tsinghua University, after obtaining my B.E and minor B.S here.
+* 09/2022: I start to pursue my Ph.D. degree at Tsinghua University, after obtaining my B.E. and minor B.S. degrees here.
 * 05/2022: My co-authored [paper](https://arxiv.org/abs/2202.03599) on gradient norm penalization in deep learning is accepted by **ICML 2022**.
 
