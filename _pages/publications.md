@@ -15,7 +15,7 @@ In 13th International Conference on Learning Representations (ICLR), 2025.
 [2] Activity Cliff-Aware Reinforcement Learning for *de novo* Drug Design  
 **Xiuyuan Hu**, Guoqing Liu, Quanming Yao, Yang Zhao, Hao Zhang.  
 In Journal of Cheminformatics, volume 17 (2025).  
-[Paper to be published]
+[Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01006-3)  [Code](https://github.com/HXYfighter/ACARL)
 
 [3] TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design  
 **Xiuyuan Hu**, Guoqing Liu, Can Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  

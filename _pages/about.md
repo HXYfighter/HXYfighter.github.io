@@ -24,7 +24,7 @@ Now, I am open to job and internship opportunities and look forward to academic 
 > Email: huxy22 [at] mails.tsinghua.edu.cn
 
 ## News
-* 04/2025: My first-authored paper ACARL for utilizing activity cliffs in drug design is accepted by **Journal of Cheminformatics**.
+* 04/2025: My first-authored paper [ACARL](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01006-3) for utilizing activity cliffs in drug design is accepted by **Journal of Cheminformatics**.
 * 01/2025: My first-authored paper [3DMolFormer](https://arxiv.org/abs/2502.05107) for structure-based drug discovery is accepted by **ICLR 2025**.
 * 11/2024: I pass my PhD qualifying exam.
 * 07/2024: My first-authored paper [Hamiltonian Diversity](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00883-4) for measuring molecular diversity is accepted by **Journal of Cheminformatics**.
