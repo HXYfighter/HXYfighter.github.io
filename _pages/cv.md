@@ -14,7 +14,9 @@ Education
 
 - **Ph.D.** student in Department of Electronic Engineering, **Tsinghua University**, China, _Sept. 2022 - Present_
   - Advisor: Hao Zhang
-- Visiting student in Computational and Biological Learning Lab, **University of Cambridge**, UK, _Jan. 2025 - July 2025_
+- Visiting student **MBZUAI** (Mohamed bin Zayed University of Artificial Intelligence), UAE, _July - Sept. 2025_
+  - Advisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
+- Visiting student in Computational and Biological Learning Lab, **University of Cambridge**, UK, _Jan. - July 2025_
   - Advisor: [José Miguel Hernández-Lobato](https://jmhl.org/)
 - Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Mar. 2024_
   - Advisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
