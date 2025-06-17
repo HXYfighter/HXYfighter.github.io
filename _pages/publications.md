@@ -22,7 +22,12 @@ In Journal of Cheminformatics, volume 17 (2025).
 arXiv Preprint (2025).  
 [Paper](https://arxiv.org/abs/2503.20913)
 
-[4] Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning  
+[4] Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models  
+Jieran Li, **Xiuyuan Hu**, Yang Zhao, Shengyao Zhuang, Hao Zhang.  
+arXiv Preprint (2025).  
+[Paper](https://arxiv.org/abs/2506.11452)
+
+[5] Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning  
 Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Siwei Fu, Fankun Zeng, Hao Zhang, Xiaonan Wang.  
 In ICLR 2025 workshop - AI4Mat: AI for Accelerated Materials Design.  
 [Paper](https://arxiv.org/abs/2503.23766)
