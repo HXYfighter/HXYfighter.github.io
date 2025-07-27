@@ -15,7 +15,7 @@ Education
 - **Ph.D.** student in Department of Electronic Engineering, **Tsinghua University**, China, _Sept. 2022 - Present_
   - Advisor: Hao Zhang
 - Visiting student in Mohamed bin Zayed University of Artificial Intelligence (**MBZUAI**), UAE, _July - Sept. 2025_
-  - Advisor: [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html)
+  - Advisor: [Xue (Steve) Liu](https://mbzuai.ac.ae/study/faculty/steve-liu/)
 - Visiting student in Computational and Biological Learning Lab, **University of Cambridge**, UK, _Jan. - July 2025_
   - Advisor: [José Miguel Hernández-Lobato](https://jmhl.org/)
 - Visiting student in Cyber-Physical Intelligence Lab, **McGill University**, Canada, _Mar. 2024_
@@ -31,7 +31,7 @@ Research Internship
 ======
 
 * **Microsoft Research** AI for Science, _July 2022 - July 2023_
-  * Mentor: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)
+  * Mentor: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ)
   * On AI for drug molecular design
 * **SenseTime** Research, _July 2021 - Dec. 2021_
   * Mentor: [Chunze Lin](https://linchunze.github.io/)
