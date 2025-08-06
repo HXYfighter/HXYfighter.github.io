@@ -9,17 +9,15 @@ redirect_from:
 
 ---
 
-I am a **3rd-year Ph.D. candidate** in the Department of Electronic Engineering **at Tsinghua University, Beijing**, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022.
+I am a **4th-year Ph.D. candidate** in the Department of Electronic Engineering **at Tsinghua University, Beijing**, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022. During my Ph.D. study, I had the privilege of working as an intern at **Microsoft Research AI for Science** and visiting **University of Cambridge**.
 
-\* During January to July 2025, I am visiting at University of Cambridge, UK.
-
-\* During July to September 2025, I will be visiting at MBZUAI, UAE.
+\* During July to September 2025, I am visiting at **MBZUAI**, UAE.
 
 My research is mainly focused on **machine learning for drug discovery**, with the aim of making a greater contribution to humans' health and scientific discoveries through AI. I am also interested in cutting-edge AI topics including AI for medicine and healthcare, AI for materials, large language models, computer vision, neuroscience, and AI for social science. 
 
 I have published papers at top-tier machine learning conferences including **NeurIPS, ICML, ICLR**, and served as a reviewer at these conferences.
 
-Now, I am open to job and internship opportunities and look forward to academic exchange and collaboration.
+I expect to **graduate in 2027**, and now I am actively seeking postdoc and industrial research opportunities around the world. 
 
 [My Publications](https://hxyfighter.github.io/publications/) &emsp; &emsp; [My CV](https://hxyfighter.github.io/cv/)
 
