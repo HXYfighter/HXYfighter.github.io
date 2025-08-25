@@ -30,6 +30,8 @@ Education
 Research Internship
 ======
 
+* **Trexquant**, _Sept. 2025 - Present_
+  * Global Alpha Research program
 * **Microsoft Research** AI for Science, _July 2022 - July 2023_
   * Mentor: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ)
   * On AI for drug molecular design
