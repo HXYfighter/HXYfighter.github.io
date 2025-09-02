@@ -42,7 +42,7 @@ Research Internship
 # Academic Services
 
 - Conference Reviewer / Program Committee: NeurIPS (2024 - 2025), ICLR (2025), ICML(2025), AAAI (2026), AISTATS (2025), ECML-PKDD (2025), AMIA (2025)
-- Journal Reviewer: Scientific Reports
+- Journal Reviewer: Scientific Reports, Heliyon
 
 Teaching Experience
 ======
