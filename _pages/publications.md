@@ -32,6 +32,11 @@ Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Siwei Fu, Fankun Zeng, Hao
 In ICLR 2025 workshop - AI4Mat: AI for Accelerated Materials Design.  
 [Paper](https://arxiv.org/abs/2503.23766)
 
+[6] UniGenX: a unified generative foundation model that couples sequence, structure and function to accelerate scientific design across proteins, molecules and materials  
+Gongbo Zhang, Yanting Li, Renqian Luo, Pipi Hu, Yang Yang, Zeru Zhao, Lingbo Li, Guoqing Liu, Zun Wang, Ran Bi, Kaiyuan Gao, Liya Guo, Yu Xie, Chang Liu, Jia Zhang, Tian Xie, Robert Pinsler, Claudio Zeni, Ziheng Lu, Hongxia Hao, Yingce Xia, Marwin Segler, Maik Riechert, Wei Yang, Hao Jiang, Wen-Bin Zhang, Zhijun Zeng, Yi Zhu, Li Dong, **Xiuyuan Hu**, Li Yuan, Lei Chen, Haiguang Liu, Tao Qin.  
+arXiv Preprint (2025).  
+[Paper](https://arxiv.org/abs/2503.06687)
+
 ## 2024
 
 [1] Hamiltonian Diversity: Effectively Measuring Molecular Diversity by Shortest Hamiltonian Circuits  
