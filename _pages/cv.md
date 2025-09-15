@@ -47,11 +47,11 @@ Research Internship
 Teaching Experience
 ======
 
+* Teaching Assistant (TA) of **Stochastic Process** at Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023, 2025_
 * Writing Tutor of **Writing Tutoring Program** at Tsinghua University, _Sept. 2022 - Present_
   * Accumulated more than 120 article revisions, including academic essays and application materials
 * Teaching Assistant (TA) of **New Horizons in Chinese Philosophy** at Tsinghua University, co-working with Prof. Yuncheng Zhou, _Fall 2024_
 * Teaching Assistant (TA) of **Probability Theory** at Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
-* Teaching Assistant (TA) of **Stochastic Process** at Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023_
 
 # Honors and Awards
 
