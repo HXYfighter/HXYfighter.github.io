@@ -41,15 +41,15 @@ Research Internship
 
 # Academic Services
 
-- Conference Reviewer / Program Committee: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML(2025), AAAI (2026), AISTATS (2025), ECML-PKDD (2025), AMIA (2025)
+- Conference Reviewer / Program Committee: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML(2025), AAAI (2026), AISTATS (2025 - 2026), ECML-PKDD (2025), AMIA (2025)
 - Journal Reviewer: Scientific Reports, Heliyon
 
 Teaching Experience
 ======
 
-* Teaching Assistant (TA) of **Stochastic Process** at Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023, 2025_
 * Writing Tutor of **Writing Tutoring Program** at Tsinghua University, _Sept. 2022 - Present_
   * Accumulated more than 120 article revisions, including academic essays and application materials
+* Teaching Assistant (TA) of **Stochastic Process** at Tsinghua University, co-working with Prof. Hao Zhang, _Fall 2023 & 2025_
 * Teaching Assistant (TA) of **New Horizons in Chinese Philosophy** at Tsinghua University, co-working with Prof. Yuncheng Zhou, _Fall 2024_
 * Teaching Assistant (TA) of **Probability Theory** at Tsinghua University, co-working with Prof. Hao Zhang, _Spring 2024_
 
