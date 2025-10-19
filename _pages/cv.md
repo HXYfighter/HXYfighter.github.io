@@ -30,7 +30,7 @@ Education
 Research Internship
 ======
 
-* **Trexquant**, _Sept. 2025 - Present_
+* **Trexquant**, _Aug. 2025 - Sept. 2025_
   * Global Alpha Research program
 * **Microsoft Research** AI for Science, _July 2022 - July 2023_
   * Mentor: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ)
@@ -55,11 +55,10 @@ Teaching Experience
 
 # Honors and Awards
 
-* Scholarship for Excellent Comprehensive Performance at Tsinghua University, *2024*
+* Scholarship for Excellent Comprehensive Performance at Tsinghua University, *2024, 2025*
 * Five-star (highest level) Volunteer in Beijing, _2024_
   * Accumulated more than 350 hours of volunteer work (2018 - 2024)
 * Excellent Oral Presentation in the 6th Academic Forum on Artificial Intelligence of Beijing Universities, _2024_
-* Scholarship for Excellent Social Works at Tsinghua University, _2021_
-* Scholarship for Excellent Social Practice at Tsinghua University, _2020_
-* Scholarship for Excellent Social Works at Tsinghua University, _2019_
+* Scholarship for Excellent Social Works at Tsinghua University, _2019, 2021_
+* Scholarship for Excellent  at Tsinghua University, _2020_
 * Bronze Medal, in Chinese Mathematical Olympiad (CMO), _2017_
