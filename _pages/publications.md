@@ -17,20 +17,20 @@ In 13th International Conference on Learning Representations (ICLR), 2025.
 In Journal of Cheminformatics, volume 17 (2025).  
 [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01006-3)  [Code](https://github.com/HXYfighter/ACARL)
 
-[3] TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design  
+[3] CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery  
+Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao Zhang, Xiaonan Wang.  
+In 40th Annual AAAI Conference on Artificial Intelligence (AAAI) - AI for Social Impact Track (AISI), 2025.  
+[Paper to be published]
+
+[4] TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design  
 **Xiuyuan Hu**, Guoqing Liu, Can (Sam) Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  
 arXiv Preprint (2025).  
 [Paper](https://arxiv.org/abs/2503.20913)
 
-[4] Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models  
+[5] Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models  
 Jieran Li, **Xiuyuan Hu**, Yang Zhao, Shengyao Zhuang, Hao Zhang.  
 arXiv Preprint (2025).  
 [Paper](https://arxiv.org/abs/2506.11452)
-
-[5] Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning  
-Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Siwei Fu, Fankun Zeng, Hao Zhang, Xiaonan Wang.  
-In ICLR 2025 workshop - AI4Mat: AI for Accelerated Materials Design.  
-[Paper](https://arxiv.org/abs/2503.23766)
 
 [6] UniGenX: a unified generative foundation model that couples sequence, structure and function to accelerate scientific design across proteins, molecules and materials  
 Gongbo Zhang, Yanting Li, Renqian Luo, Pipi Hu, Yang Yang, Zeru Zhao, Lingbo Li, Guoqing Liu, Zun Wang, Ran Bi, Kaiyuan Gao, Liya Guo, Yu Xie, Chang Liu, Jia Zhang, Tian Xie, Robert Pinsler, Claudio Zeni, Ziheng Lu, Hongxia Hao, Yingce Xia, Marwin Segler, Maik Riechert, Wei Yang, Hao Jiang, Wen-Bin Zhang, Zhijun Zeng, Yi Zhu, Li Dong, **Xiuyuan Hu**, Li Yuan, Lei Chen, Haiguang Liu, Tao Qin.  
