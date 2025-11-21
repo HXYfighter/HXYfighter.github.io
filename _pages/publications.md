@@ -19,8 +19,8 @@ In Journal of Cheminformatics, volume 17 (2025).
 
 [3] CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery  
 Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao Zhang, Xiaonan Wang.  
-In 40th Annual AAAI Conference on Artificial Intelligence (AAAI) - AI for Social Impact Track (AISI), 2025.  
-[Paper to be published]
+In 40th Annual AAAI Conference on Artificial Intelligence (AAAI) - AI for Social Impact Track (AISI), 2025. (Oral)  
+[Paper to be published] 
 
 [4] TransDiffSBDD: Causality-Aware Multi-Modal Structure-Based Drug Design  
 **Xiuyuan Hu**, Guoqing Liu, Can (Sam) Chen, Yang Zhao, Hao Zhang, Xue (Steve) Liu.  
