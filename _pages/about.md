@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am a **4th-year Ph.D. candidate** in the Department of Electronic Engineering **at Tsinghua University, Beijing**, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022. During my Ph.D. study, I had the privilege of working as an intern at **Microsoft Research AI for Science** and visiting **University of Cambridge** and **MBZUAI**.
+I am a **4th-year Ph.D. candidate** in the Department of Electronic Engineering **at Tsinghua University, Beijing**, advised by Prof. Hao Zhang. Prior to this, I received my Bachelor's degree also from Dept. EE, THU in 2022. During my Ph.D. study, I had the privilege of working as an intern at **Microsoft Research** and **AstraZeneca**, and visiting **University of Cambridge** and **MBZUAI**.
 
 My research is mainly focused on **machine learning and AI for science (particularly drug discovery)**. I am also interested in cutting-edge AI topics including AI for medicine and healthcare, large language models, computer vision, neuroscience, and AI for social science. 
 

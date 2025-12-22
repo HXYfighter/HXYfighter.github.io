@@ -30,6 +30,7 @@ Education
 Research Internship
 ======
 
+* **AstraZeneca**, _Jan. 2026 - Present_
 * **Trexquant**, _Aug. 2025 - Sept. 2025_
   * Global Alpha Research program
 * **Microsoft Research** AI for Science, _July 2022 - July 2023_
