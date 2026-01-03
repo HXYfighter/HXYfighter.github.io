@@ -22,7 +22,7 @@ I expect to **graduate in 2027**, and now I am actively seeking postdoc and indu
 > Email: huxy22 [at] mails.tsinghua.edu.cn
 
 ## News
-* 11/2025: Our paper CycleChemist for organic photovoltaic discovery is accepted by **AAAI 2026** for **Oral Presentation**.
+* 11/2025: Our paper [CycleChemist](http://arxiv.org/abs/2511.19500) for organic photovoltaic discovery is accepted by **AAAI 2026** for **Oral Presentation**.
 * 04/2025: My first-authored paper [ACARL](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01006-3) for utilizing activity cliffs in drug design is accepted by **Journal of Cheminformatics**.
 * 01/2025: My first-authored paper [3DMolFormer](https://arxiv.org/abs/2502.05107) for structure-based drug discovery is accepted by **ICLR 2025**.
 * 11/2024: I pass my PhD qualifying exam.
