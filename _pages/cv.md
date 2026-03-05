@@ -30,26 +30,30 @@ Education
 Research Internship
 ======
 
-* **AstraZeneca**, _Jan. 2026 - Present_
-* **Microsoft Research** AI for Science, _July 2022 - July 2023_
-  * Mentor: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ)
+* **AstraZeneca R&D** Clinical Pharmacology group, _Jan. 2026 - Present_
+  - Mentors: Yu Fu, Hong Su, Ye Yao, Yanyan Zhang
+  - On AI for Pharmacokinetics Modeling
+* **Microsoft Research** AI for Science group, _July 2022 - July 2023_
+  * Mentors: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ)
   * On AI for drug molecular design
-* **SenseTime** Research, _July 2021 - Dec. 2021_
+* **SenseTime Research** Digital World group, _July 2021 - Dec. 2021_
   * Mentor: [Chunze Lin](https://linchunze.github.io/)
   * On face image stylization
 
 # Academic Services
 
-- Conference Reviewer / Program Committee: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML(2025 - 2026), AAAI (2026), KDD (2026), AISTATS (2025 - 2026), ECML-PKDD (2025), AMIA (2025)
+- Conference Reviewer / Program Committee: NeurIPS (2024 - 2025), ICLR (2025 - 2026), ICML(2025 - 2026), ACL ARR (2026), ECCV (2026), AAAI (2026), KDD (2026), AISTATS (2025 - 2026), ECML-PKDD (2025), AMIA (2025)
 - Journal Reviewer: Scientific Reports
 
 Teaching Experience
 ======
 
 * Writing Tutor of **Writing Tutoring Program** at Tsinghua University, _Sept. 2022 - Present_
-  * Accumulated more than 120 article revisions, including academic essays and application materials
+  * Hosting 12 workshops on writing skills and tools, especially AI writing
+  * Guiding the revision of 150+ articles, including academic papers and application materials
+* Teaching Assistant (TA) of **Academic English for Graduate Students** at Tsinghua University, co-working with Prof. Ying Zhang, _Spring 2026_
 * Teaching Assistant (TA) of **Probability Theory** and **Stochastic Process** at Tsinghua University, co-working with Prof. Hao Zhang, _2023 - 2025_
-* Teaching Assistant (TA) of **New Horizons in Chinese Philosophy** at Tsinghua University, co-working with Prof. Yuncheng Zhou, _Fall 2024_
+* Teaching Assistant (TA) of **New Horizons in Chinese Philosophy** (for foreign students) at Tsinghua University, co-working with Prof. Yuncheng Zhou, _Fall 2024_
 
 # Honors and Awards
 
