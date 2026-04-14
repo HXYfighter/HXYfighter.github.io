@@ -5,9 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+For a full publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=8cRupWIAAAAJ).
+
+\* indicates equal contribution.
+
 ## 2026
 
-[1] CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery  
+[1] Beyond Output Confidence: Epistemic-Aware Hallucination Detection with Entity-Level Signals  
+Jieran Li\*, **Xiuyuan Hu\***, Yang Zhao, Dongbiao Sun, Hao Zhang.  
+In 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026. (Findings)  
+[Paper to be released]
+
+[2] CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery  
 Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao Zhang, Xiaonan Wang.  
 In 40th Annual AAAI Conference on Artificial Intelligence (AAAI) - AI for Social Impact Track (AISI), 2026. (Oral)  
 [Paper](http://arxiv.org/abs/2511.19500) [Data](https://github.com/sunyrain/OPV2D)
@@ -25,9 +34,9 @@ In Journal of Cheminformatics, volume 17 (2025).
 [Paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01006-3)  [Code](https://github.com/HXYfighter/ACARL)
 
 [3] ACDock: Proposal for a Large-scale High-quality Dataset of Activity Cliffs.  
-**Xiuyuan Hu**, Jingyi Zhao, Guoqing Liu, Yang Zhao, Jieran Li, Hao Zhang, José Miguel Hernández-Lobato.  
+**Xiuyuan Hu\***, Jingyi Zhao\*, Guoqing Liu, Yang Zhao, Jieran Li, Hao Zhang, José Miguel Hernández-Lobato.  
 In NeurIPS 2025 workshop - AI4Science: The Reach and Limits of AI for Scientific Discovery, 2025.   
-[Paper to be published]
+[Paper](https://openreview.net/pdf?id=GaeCVxEKbZ)
 
 [4] Leveraging Reference Documents for Zero-Shot Ranking via Large Language Models  
 Jieran Li, **Xiuyuan Hu**, Yang Zhao, Shengyao Zhuang, Hao Zhang.  
