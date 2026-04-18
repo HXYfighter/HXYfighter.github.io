@@ -13,7 +13,7 @@ I am a **4th-year Ph.D. candidate** in the Department of Electronic Engineering 
 
 My research is mainly focused on **machine learning and AI for science (particularly drug discovery)**. I am also interested in cutting-edge AI topics including AI for medicine and healthcare, large language models, computer vision, neuroscience, and AI for social science. 
 
-I have published papers at top-tier machine learning conferences including **NeurIPS, ICML, ICLR, AAAI**, and served as a reviewer at these conferences.
+I have published papers at top-tier machine learning conferences including **NeurIPS, ICML, ICLR, AAAI, ACL**, and served as a reviewer at these conferences.
 
 I expect to **graduate in December 2026**, and now I am actively seeking postdoc and industrial research opportunities around the world. 
 
