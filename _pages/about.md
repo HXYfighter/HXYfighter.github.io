@@ -22,7 +22,7 @@ I expect to **graduate in December 2026**, and now I am actively seeking postdoc
 > Email: huxy22 [at] mails.tsinghua.edu.cn
 
 ## Research News
-* 04/2026: My co-first-authored paper on LLM hallucination detection is accepted by **ACL 2026** Findings.
+* 04/2026: My co-first-authored paper on LLM hallucination detection is accepted by **ACL 2026** (Findings).
 * 11/2025: Our paper [CycleChemist](http://arxiv.org/abs/2511.19500) for organic photovoltaic discovery is accepted by **AAAI 2026** for **Oral Presentation**.
 * 04/2025: My first-authored paper [ACARL](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-025-01006-3) for utilizing activity cliffs in drug design is accepted by **Journal of Cheminformatics**.
 * 01/2025: My first-authored paper [3DMolFormer](https://arxiv.org/abs/2502.05107) for structure-based drug discovery is accepted by **ICLR 2025**.
@@ -31,5 +31,5 @@ I expect to **graduate in December 2026**, and now I am actively seeking postdoc
 * 05/2024: Our [paper](https://arxiv.org/abs/2406.09723) on gradient regularization in deep learning is accepted by **ICML 2024**.
 * 09/2023: My first-authored paper [MolRL-MGPT](https://arxiv.org/abs/2401.06155) for *de novo* drug design is accepted by **NeurIPS 2023**.
 * 09/2022: I start to pursue my Ph.D. degree at Tsinghua University, after obtaining my B.E. and minor B.S. degrees here.
-* 05/2022: Our [paper](https://arxiv.org/abs/2202.03599) on gradient norm penalization in deep learning is accepted by **ICML 2022**.
+* 05/2022: Our [paper](https://arxiv.org/abs/2202.03599) on gradient norm penalization in deep learning is accepted by **ICML 2022** (Spotlight).
 

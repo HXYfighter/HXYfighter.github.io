@@ -91,5 +91,5 @@ In NeurIPS 2023 workshop - ATTRIB: Attributing Model Behavior at Scale.
 
 [1] Penalizing Gradient Norm for Efficiently Improving Generalization in Deep Learning  
 Yang Zhao, Hao Zhang, **Xiuyuan Hu**.  
-In 39th International Conference on Machine Learning (ICML), 2022.  
+In 39th International Conference on Machine Learning (ICML), 2022. (Spotlight)  
 [Paper](https://arxiv.org/abs/2202.03599)  [Code](https://github.com/zhaoyang-0204/gnp)
