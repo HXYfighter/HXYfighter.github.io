@@ -31,7 +31,7 @@ Research Internship
 ======
 
 * **AstraZeneca R&D** Clinical Pharmacology group, _Jan. 2026 - Present_
-  - Mentors: Yu Fu, Hong Su, Ye Yao, Yanyan Zhang
+  - Mentors: Yu Fu, Hong Su, Ye Yao, Peiming Ma
   - On AI for Pharmacokinetics Modeling
 * **Microsoft Research** AI for Science group, _July 2022 - July 2023_
   * Mentors: [Guoqing Liu](https://fiberleif.github.io/), [Tao Qin](https://scholar.google.com/citations?user=Bl4SRU0AAAAJ)
