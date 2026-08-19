@@ -11,15 +11,20 @@ For a full publication list, please refer to my [Google Scholar](https://scholar
 
 ## 2026
 
-[1] Beyond Output Confidence: Epistemic-Aware Hallucination Detection with Entity-Level Signals  
+[1] Beyond Output Confidence: Epistemic-Aware Hallucination Detection with Answer-Level Signals  
 Jieran Li\*, **Xiuyuan Hu\***, Yang Zhao, Dongbiao Sun, Hao Zhang.  
 In 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026. (Findings)  
-[Paper to be released]
+[Paper](https://aclanthology.org/2026.findings-acl.674/) [Code](https://github.com/HXYfighter/AIC-ACL2026)
 
 [2] CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery  
-Jiangjie Qiu, Hou Hei Lam, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao Zhang, Xiaonan Wang.  
+Hou Hei Lam, Jiangjie Qiu, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao Zhang, Xiaonan Wang.  
 In 40th Annual AAAI Conference on Artificial Intelligence (AAAI) - AI for Social Impact Track (AISI), 2026. (Oral)  
 [Paper](http://arxiv.org/abs/2511.19500) [Data](https://github.com/sunyrain/OPV2D)
+
+[3] Evaluating the Diversity of AI-Generated Content with Diversity Profiles
+**Xiuyuan Hu**, Xuege Hou, Guoqing Liu, Yang Zhao, Jieran Li, Dongbiao Sun, José Miguel Hernández-Lobato, Hao Zhang, Xue Liu.
+arXiv Preprint (2026).
+[Paper](https://arxiv.org/abs/2608.17731)
 
 ## 2025
 
