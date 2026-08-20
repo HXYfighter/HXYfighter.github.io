@@ -21,9 +21,9 @@ Hou Hei Lam, Jiangjie Qiu, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao
 In 40th Annual AAAI Conference on Artificial Intelligence (AAAI) - AI for Social Impact Track (AISI), 2026. (Oral)  
 [Paper](http://arxiv.org/abs/2511.19500) [Data](https://github.com/sunyrain/OPV2D)
 
-[3] Evaluating the Diversity of AI-Generated Content with Diversity Profiles
-**Xiuyuan Hu**, Xuege Hou, Guoqing Liu, Yang Zhao, Jieran Li, Dongbiao Sun, José Miguel Hernández-Lobato, Hao Zhang, Xue Liu.
-arXiv Preprint (2026).
+[3] Evaluating the Diversity of AI-Generated Content with Diversity Profiles  
+**Xiuyuan Hu**, Xuege Hou, Guoqing Liu, Yang Zhao, Jieran Li, Dongbiao Sun, José Miguel Hernández-Lobato, Hao Zhang, Xue Liu.  
+arXiv Preprint (2026).  
 [Paper](https://arxiv.org/abs/2608.17731)
 
 ## 2025
