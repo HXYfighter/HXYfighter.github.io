@@ -17,7 +17,7 @@ In 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2
 [Paper](https://aclanthology.org/2026.findings-acl.674/) [Code](https://github.com/HXYfighter/AIC-ACL2026)
 
 [2] CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery  
-Hou Hei Lam, Jiangjie Qiu, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao Zhang, Xiaonan Wang.  
+Hou Hei Lam\*, Jiangjie Qiu\*, **Xiuyuan Hu**, Wentao Li, Fankun Zeng, Siwei Fu, Hao Zhang, Xiaonan Wang.  
 In 40th Annual AAAI Conference on Artificial Intelligence (AAAI) - AI for Social Impact Track (AISI), 2026. (Oral)  
 [Paper](http://arxiv.org/abs/2511.19500) [Data](https://github.com/sunyrain/OPV2D)
 
