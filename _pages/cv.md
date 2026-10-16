@@ -42,7 +42,7 @@ Research Internship
 
 # Academic Services
 
-- Conference Reviewer / Program Committee: NeurIPS (2024 - 2026), ICLR (2025 - 2026), ICML(2025 - 2026), ACL ARR (2026), AAAI (2026), KDD (2026), AISTATS (2025 - 2026), ECML-PKDD (2025), AMIA (2025)
+- Conference Reviewer / Program Committee: NeurIPS (2024 - 2026), ICLR (2025 - 2027), ICML(2025 - 2026), ACL ARR (2026), AAAI (2026-2027), KDD (2026), AISTATS (2025 - 2026), ECML-PKDD (2025), AMIA (2025)
 - Journal Reviewer: Scientific Reports, Bioinformatics, TMLR
 
 Teaching Experience
@@ -57,7 +57,7 @@ Teaching Experience
 
 # Honors and Awards
 
-* Scholarship for Excellent Comprehensive Performance at Tsinghua University, *2024, 2025*
+* Scholarship for Excellent Comprehensive Performance at Tsinghua University, *2024, 2025, 2026*
 * Five-star (highest level) Volunteer in Beijing, _2024_
   * Accumulated more than 350 hours of volunteer work (2018 - 2024)
 * Excellent Oral Presentation in the 6th Academic Forum on Artificial Intelligence of Beijing Universities, _2024_
